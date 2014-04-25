@@ -1,0 +1,3 @@
+Damit der Installer funktioniert müssen alle Files 
+im Rootverzeichnis des USB-Sticks liegen und dürfen 
+auf keinen Fall umbenannt werden.
